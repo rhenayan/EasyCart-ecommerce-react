@@ -41,3 +41,12 @@ Power of APIs: APIs are a crucial aspect of any E-commerce website, and I learne
 
 User Experience design: Developing a user-friendly and intuitive user interface is crucial for the success of an E-commerce website, and I learnedimportance of design principles, such as responsive design, and how to use style libraries such as TailwindCSS to build great-looking user interfaces.
 
+
+
+## Screenshots
+
+<img src="https://i.ibb.co/164RMhr/Home.png" alt="Home" border="0">
+<img src="https://i.ibb.co/SQg0gcq/Shoppe-Shop.png" alt="Shoppe-Shop" border="0">
+<img src="https://i.ibb.co/6sVXTB6/Cart.png" alt="Cart" border="0">
+<img src="https://i.ibb.co/M5nTFwv/Product-Detail.png" alt="Product-Detail" border="0">
+<img src="https://i.ibb.co/bW0yy6t/Mobile-View.png" alt="Mobile-View" border="0">
