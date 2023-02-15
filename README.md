@@ -51,7 +51,11 @@ User Experience design: Developing a user-friendly and intuitive user interface 
 <img src="https://i.ibb.co/M5nTFwv/Product-Detail.png" alt="Product-Detail" border="0">
 <img src="https://i.ibb.co/bW0yy6t/Mobile-View.png" alt="Mobile-View" border="0">
 
+## DISCLAIMER
 
+The information and materials contained in this repository are provided for educational and personal use only. They are not intended to be used for any commercial or professional purposes, and any actions taken based on the information provided in this repository are done so at your own risk. The owner of this repository makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the information, code, and materials contained in this repository. The owner shall not be liable for any losses, injuries, or damages arising from the use or reliance on the information, code, and materials contained in this repository. The owner also reserves the right to modify the contents of this repository at any time without prior notice.
+
+Please note that the information and materials contained in this repository are not owned by the creator of this repository. They are the property of their respective owners, and are used for educational and personal use only. If you use any information, code, or materials from this repository in your own projects or publications, you do so at your own risk. By accessing and using this repository, you acknowledge and agree to the terms of this disclaimer.
 
 ## Source
 
